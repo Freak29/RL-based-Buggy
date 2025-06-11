@@ -10,6 +10,13 @@ After training, the agent learns the optimal path and reaches the destination co
 
 ![Reward Plot](reward_plot.png)
 
+🎥 **Demo Videos**
+
+▶️ Before Learning (Exploration Phase)  
+[📥 Download before_learning.mp4](media/before_learning.mp4)
+
+▶️ After Learning (Optimal Path)  
+[📥 Download after_learning.mp4](media/after_learning.mp4)
 ---
 
 ## 🧠 What’s Inside
