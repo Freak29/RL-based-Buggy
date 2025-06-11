@@ -17,6 +17,7 @@ After training, the agent learns the optimal path and reaches the destination co
 
 ▶️ After Learning (Optimal Path)  
 [📥 Download after_learning.mp4](media/after_learning.mp4)
+
 ---
 
 ## 🧠 What’s Inside
