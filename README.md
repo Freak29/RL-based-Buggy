@@ -101,10 +101,3 @@ Vaibhav Shikhar Singh
 📄 License
 This project is licensed under the MIT License.
 ---
-
-### ✅ How to Use:
-1. Open `README.md` locally or on GitHub.
-2. Paste the full content above.
-3. Commit & push it.
-
-Let me know if you want me to generate a matching `requirements.txt`, `LICENSE`, or badges for GitHub (l
