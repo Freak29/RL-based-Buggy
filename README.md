@@ -72,9 +72,6 @@ RL-based-Buggy/
 └── README.md # You’re reading this now!
 
 
-yaml
-Copy code
-
 ---
 
 ## 📦 Requirements
