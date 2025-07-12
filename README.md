@@ -34,24 +34,43 @@ The agent learns using **Q-learning** and stores its knowledge in a Q-table.
 
 RL-based-Buggy/
 ├── env.py # GridWorld environment (walls, goal, agent)
+
 ├── q_learning_agent.py # Agent with Q-table and learning logic
+
 ├── train.py # Training loop for the agent
+
 ├── visualize.py # Pygame simulation after training
+
 ├── q_table.pkl # Saved Q-table after training
+
 ├── reward_plot.png # Reward vs Episodes graph
+
 ├── main.py # (Optional) Launcher or entry script
+
 ├── media/ # Demo videos folder
+
 │ ├── before_learning.mp4
+
 │ ├── after_learning.mp4
+
 │ └── Improved_Simulation.mp4
+
 ├── assets/ # Visual & sound assets
+
 │ ├── car.png
+
 │ ├── tree.png
+
 │ ├── goal.png
+
 │ ├── goal.wav
+
 │ └── bump.wav
+
 ├── .gitignore # Ignoring cache and binary files
+
 └── README.md # You’re reading this now!
+
 
 yaml
 Copy code
@@ -111,7 +130,5 @@ Vaibhav Shikhar Singh
 📄 License
 This project is licensed under the MIT License.
 
-yaml
-Copy code
 
 ---
